@@ -1,4 +1,5 @@
 # Config settings
+remote_theme: daattali/beautiful-jekyll@5.0.0
 title: Jekyll Ideal Image Slider Include Demo
 baseurl: "/jekyll-ideal-image-slider-include"
 
